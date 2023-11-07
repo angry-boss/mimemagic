@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.name = 'mimemagic'
   s.version = MimeMagic::VERSION
 
-  s.authors = [‘Ilmira Shaikhraznova’]
+  s.authors = ['Ilmira Shaikhraznova']
   s.date = Date.today.to_s
-  s.email = [‘ilmira.shaikhraynova@icloud.com’]
+  s.email = ['ilmira.shaikhraynova@icloud.com']
 
   s.files         = `git ls-files`.split("\n")
   s.require_paths = %w(lib)
